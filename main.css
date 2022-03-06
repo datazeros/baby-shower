@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(23,24,59);
+    font-family: 'Sen';
+    padding-bottom: 50px;
+}
+
+a {
+    color: rgb(209,203,200);
+}
+
+img {
+    width: 80%;
+    padding-top: 5px;
+}
+
+.header {
+    width: 60%;
+    min-width: 300px;
+    margin: auto;
+    padding: 50px;
+    color: rgb(209,203,200);
+}
+
+.steps {
+    width: 60%;
+    min-width: 300px;
+    margin: auto;
+    padding: 0 50px;
+    color: rgb(209,203,200);
+}
