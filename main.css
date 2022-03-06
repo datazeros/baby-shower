@@ -29,9 +29,32 @@ img {
     color: rgb(209,203,200);
 }
 
+.left-right {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 60%;
+    min-width: 300px;
+    margin: auto;
+    padding: 0;
+    color: rgb(209,203,200);
+}
+
+.amazon {
+    order: 1;
+}
+
+.babykingdom {
+    order: 2;
+}
+
 #main-photo {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.menu {
+    max-width: 300px;
 }
